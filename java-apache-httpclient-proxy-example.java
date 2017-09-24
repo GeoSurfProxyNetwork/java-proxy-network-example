@@ -1,5 +1,5 @@
 // Java Apache HttpClient proxy example
-// http://www.geosurf.com/resources/residential-ips-integration-guide
+// https://www.geosurf.com/resources/residential-ips-integration-guide
 
 String gs_proxy_addr = "gw1.geosurf.io";
 int gs_proxy_port = 8081;
